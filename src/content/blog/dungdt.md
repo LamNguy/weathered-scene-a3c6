@@ -1,8 +1,9 @@
+---
 title: "Nutanix: Transforming Enterprise Cloud Infrastructure" 
 description: "How Nutanix is revolutionizing hybrid cloud deployments with its hyperconverged infrastructure solutions" 
 pubDate: "Mar 21 2025" 
 heroImage: "/blog-placeholder-3.jpg"
-
+---
 
 
 Nutanix: Transforming Enterprise Cloud Infrastructure
